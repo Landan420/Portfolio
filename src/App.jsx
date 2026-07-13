@@ -56,6 +56,24 @@ const PROJECTS = [
     href: 'https://ihymich.pages.dev',
     accent: '#34d399',
   },
+  {
+    id: 'quibbish',
+    name: 'quibbish.pages.dev',
+    label: 'Personal Site',
+    desc: 'Soft, pink-themed personal site with a custom content system backed by Cloudflare D1, elegant serif typography, and a cozy aesthetic built around its owner’s personality.',
+    tags: ['React', 'Cloudflare D1', 'Vite', 'Cloudflare Pages'],
+    href: 'https://quibbish.pages.dev',
+    accent: '#f5a8c8',
+  },
+  {
+    id: 'triplet',
+    name: 'tripletfloat.pages.dev',
+    label: 'Lore / Fan Site',
+    desc: 'Bold, editorial-style lore site for Triple T j4ke — The Lore of Tung Tung Sahur — with punchy display typography and a fun, meme-driven narrative layout.',
+    tags: ['React', 'Vite', 'Cloudflare Pages'],
+    href: 'https://tripletfloat.pages.dev',
+    accent: '#fbbf24',
+  },
 ]
 
 const SKILLS = [
