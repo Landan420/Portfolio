@@ -64,17 +64,7 @@ const PROJECTS = [
     tags: ['React', 'Cloudflare D1', 'Vite', 'Cloudflare Pages'],
     href: 'https://quibbish.pages.dev',
     accent: '#f5a8c8',
-  },
-  {
-    id: 'triplet',
-    name: 'tripletfloat.pages.dev',
-    label: 'Lore / Fan Site',
-    desc: 'Bold, editorial-style lore site for Triple T j4ke — The Lore of Tung Tung Sahur — with punchy display typography and a fun, meme-driven narrative layout.',
-    tags: ['React', 'Vite', 'Cloudflare Pages'],
-    href: 'https://tripletfloat.pages.dev',
-    accent: '#fbbf24',
-  },
-]
+  },]
 
 const SKILLS = [
   { icon: Code2,     label: 'React & Vite',        sub: 'Component-driven UIs, fast builds' },
